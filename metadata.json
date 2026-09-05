@@ -1,0 +1,6 @@
+{
+  "name": "Crest Point Investment",
+  "description": "Crest Point Investment (CPI) mobile platform for managing and monitoring cryptocurrency and stock-market investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
